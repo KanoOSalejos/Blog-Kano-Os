@@ -12,4 +12,5 @@ Proyecto dedicado a promover el sistema operativo Kano Os, como solución a la e
 
 [Licencia]
 
+[Agradecimientos]
 
